@@ -1,0 +1,14 @@
+/Users/christopher/Desktop/tictacsomething/tictacsomething/obj/Debug/net10.0/tictacsomething.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christopher/Desktop/tictacsomething/tictacsomething/obj/Debug/net10.0/tictacsomething.AssemblyInfoInputs.cache
+/Users/christopher/Desktop/tictacsomething/tictacsomething/obj/Debug/net10.0/tictacsomething.AssemblyInfo.cs
+/Users/christopher/Desktop/tictacsomething/tictacsomething/obj/Debug/net10.0/tictacsomething.csproj.CoreCompileInputs.cache
+/Users/christopher/Desktop/tictacsomething/tictacsomething/bin/Debug/net10.0/tictacsomething
+/Users/christopher/Desktop/tictacsomething/tictacsomething/bin/Debug/net10.0/tictacsomething.deps.json
+/Users/christopher/Desktop/tictacsomething/tictacsomething/bin/Debug/net10.0/tictacsomething.runtimeconfig.json
+/Users/christopher/Desktop/tictacsomething/tictacsomething/bin/Debug/net10.0/tictacsomething.dll
+/Users/christopher/Desktop/tictacsomething/tictacsomething/bin/Debug/net10.0/tictacsomething.pdb
+/Users/christopher/Desktop/tictacsomething/tictacsomething/obj/Debug/net10.0/tictacsomething.dll
+/Users/christopher/Desktop/tictacsomething/tictacsomething/obj/Debug/net10.0/refint/tictacsomething.dll
+/Users/christopher/Desktop/tictacsomething/tictacsomething/obj/Debug/net10.0/tictacsomething.pdb
+/Users/christopher/Desktop/tictacsomething/tictacsomething/obj/Debug/net10.0/tictacsomething.genruntimeconfig.cache
+/Users/christopher/Desktop/tictacsomething/tictacsomething/obj/Debug/net10.0/ref/tictacsomething.dll

@@ -12,3 +12,4 @@
 /Users/christopher/Desktop/tictacsomething/tictacsomething/obj/Debug/net10.0/tictacsomething.pdb
 /Users/christopher/Desktop/tictacsomething/tictacsomething/obj/Debug/net10.0/tictacsomething.genruntimeconfig.cache
 /Users/christopher/Desktop/tictacsomething/tictacsomething/obj/Debug/net10.0/ref/tictacsomething.dll
+/Users/christopher/Desktop/tictacsomething/tictacsomething/obj/Debug/net10.0/tictacsomething.sourcelink.json

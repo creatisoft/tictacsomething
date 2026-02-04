@@ -52,6 +52,9 @@ class Program
                 case 9:
                     maze[2, 2] = 8;
                     break;
+                default:
+                    Console.WriteLine("Enter a valid number...");
+                    break;
             }
         
             DisplayMap(maze);
